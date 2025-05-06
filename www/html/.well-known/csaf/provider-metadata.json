@@ -34,8 +34,8 @@
   "mirror_on_CSAF_aggregators": true,
   "public_openpgp_keys": [
     {
-      "fingerprint": "39539FA0413D9C9C09EE16AE3640CADEA01B4A2F",
-      "url": "https://localhost:8443/.well-known/csaf/openpgp/39539FA0413D9C9C09EE16AE3640CADEA01B4A2F.asc"
+      "fingerprint": "79B5E4B1EFAD63E7332592479F892DA137BFB437",
+      "url": "https://localhost:8443/.well-known/csaf/openpgp/publickey.asc"
     }
   ],
   "publisher": {

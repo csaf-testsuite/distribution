@@ -44,6 +44,7 @@
       "discovery_date": "1990-01-01T11:00:00.000Z",
       "release_date": "1990-02-01T11:00:00.000Z",
       "title": "Vulnerability 1",
+      "title": "Vulnerability 2",
       "product_status": {
         "known_not_affected": [
           "p1"
