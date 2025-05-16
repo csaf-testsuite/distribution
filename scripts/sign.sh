@@ -12,7 +12,7 @@ generate_hashes() {
 # Function to sign a file using GPG and save it as a .asc
 sign_file() {
     local file=$1
-    gpg --batch --yes --armor --detach-sign --output "$file.asc" --yes --default-key "example@example.com" --pa
+    gpg --batch --yes --armor --detach-sign --output "$file.asc" --yes --default-key "example@example.com" --passphrase "Passhphrase" "$file"
 }
 
 # Loop through all .json files in the directory and its subdirectories
