@@ -28,16 +28,16 @@
       }
     },
     {
-      "directory_url": "https://localhost:8443/.well-known/csaf/white"
+      "directory_url": "https://$((DIRECTORY_URL))$/.well-known/csaf/white"
     },
     {
-      "directory_url": "https://localhost:8443/.well-known/csaf/green"
+      "directory_url": "https://$((DIRECTORY_URL))$/.well-known/csaf/green"
     },
     {
-      "directory_url": "https://localhost:8443/.well-known/csaf/amber"
+      "directory_url": "https://$((DIRECTORY_URL))$/.well-known/csaf/amber"
     },
     {
-      "directory_url": "https://localhost:8443/.well-known/csaf/red"
+      "directory_url": "https://$((DIRECTORY_URL))$/.well-known/csaf/red"
     }
   ],
   "last_updated": "2025-05-02T06:26:59Z",
