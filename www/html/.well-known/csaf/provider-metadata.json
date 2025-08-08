@@ -47,7 +47,7 @@
   "public_openpgp_keys": [
     {
       "fingerprint": "79B5E4B1EFAD63E7332592479F892DA137BFB437",
-      "url": "https://localhost:8443/.well-known/csaf/openpgp/publickey.asc"
+      "url": "https://$((PUBLIC_OPENPGP_KEY_URL))$/.well-known/csaf/openpgp/publickey.asc"
     }
   ],
   "publisher": {
