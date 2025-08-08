@@ -35,7 +35,7 @@
     "distribution": {
       "tlp": {
         "label": "WHITE",
-        "url": "https://www.first.org/tlp/"
+        "url": "https://$((DISTRIBUTION_URL))$/tlp/"
       }
     }
   },
