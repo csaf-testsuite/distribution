@@ -1,5 +1,5 @@
 {
-  "canonical_url": "https://localhost:8443/.well-known/csaf/provider-metadata.json",
+  "canonical_url": "https://$((CANONICAL_URL))$/.well-known/csaf/provider-metadata.json",
   "distributions": [
     {
       "rolie": {
