@@ -5,11 +5,11 @@
     "link": [
       {
         "rel": "self",
-        "href": "https://$((FEED_URL))$/.well-known/csaf/green/csaf-feed-tlp-green.json"
+        "href": "https://$((. FEED_URL))$/.well-known/csaf/green/csaf-feed-tlp-green.json"
       },
       {
         "rel": "service",
-        "href": "https://$((FEED_URL))$/.well-known/csaf/service.json"
+        "href": "https://$((. FEED_URL))$/.well-known/csaf/service.json"
       }
     ],
     "category": [
@@ -26,26 +26,26 @@
         "link": [
           {
             "rel": "self",
-            "href": "https://$((FEED_URL))$/.well-known/csaf/green/2020/green_1.json"
+            "href": "https://$((. FEED_URL))$/.well-known/csaf/green/2020/green_1.json"
           },
           {
             "rel": "hash",
-            "href": "https://$((FEED_URL))$/.well-known/csaf/green/2020/green_1.json.sha256"
+            "href": "https://$((. FEED_URL))$/.well-known/csaf/green/2020/green_1.json.sha256"
           },
           {
             "rel": "hash",
-            "href": "https://$((FEED_URL))$/.well-known/csaf/green/2020/green_1.json.sha512"
+            "href": "https://$((. FEED_URL))$/.well-known/csaf/green/2020/green_1.json.sha512"
           },
           {
             "rel": "signature",
-            "href": "https://$((FEED_URL))$/.well-known/csaf/green/2020/green_1.json.asc"
+            "href": "https://$((. FEED_URL))$/.well-known/csaf/green/2020/green_1.json.asc"
           }
         ],
         "published": "2020-01-01T11:00:00Z",
         "updated": "2024-11-11T11:00:00Z",
         "content": {
           "type": "application/json",
-          "src": "https://$((FEED_URL))$/.well-known/csaf/green/2020/green_1.json"
+          "src": "https://$((. FEED_URL))$/.well-known/csaf/green/2020/green_1.json"
         },
         "format": {
           "schema": "https://docs.oasis-open.org/csaf/csaf/v2.0/csaf_json_schema.json",
@@ -58,26 +58,26 @@
         "link": [
           {
             "rel": "self",
-            "href": "https://$((FEED_URL))$/.well-known/csaf/green/2019/green_2.json"
+            "href": "https://$((. FEED_URL))$/.well-known/csaf/green/2019/green_2.json"
           },
           {
             "rel": "hash",
-            "href": "https://$((FEED_URL))$/.well-known/csaf/green/2019/green_2.json.sha256"
+            "href": "https://$((. FEED_URL))$/.well-known/csaf/green/2019/green_2.json.sha256"
           },
           {
             "rel": "hash",
-            "href": "https://$((FEED_URL))$/.well-known/csaf/green/2019/green_2.json.sha512"
+            "href": "https://$((. FEED_URL))$/.well-known/csaf/green/2019/green_2.json.sha512"
           },
           {
             "rel": "signature",
-            "href": "https://$((FEED_URL))$/.well-known/csaf/green/2019/green_2.json.asc"
+            "href": "https://$((. FEED_URL))$/.well-known/csaf/green/2019/green_2.json.asc"
           }
         ],
         "published": "2019-01-01T11:00:00Z",
         "updated": "2023-11-11T11:00:00Z",
         "content": {
           "type": "application/json",
-          "src": "https://$((FEED_URL))$/.well-known/csaf/green/2019/green_2.json"
+          "src": "https://$((. FEED_URL))$/.well-known/csaf/green/2019/green_2.json"
         },
         "format": {
           "schema": "https://docs.oasis-open.org/csaf/csaf/v2.0/csaf_json_schema.json",
@@ -90,26 +90,26 @@
         "link": [
           {
             "rel": "self",
-            "href": "https://$((FEED_URL))$/.well-known/csaf/green/2018/green_3.json"
+            "href": "https://$((. FEED_URL))$/.well-known/csaf/green/2018/green_3.json"
           },
           {
             "rel": "hash",
-            "href": "https://$((FEED_URL))$/.well-known/csaf/green/2018/green_3.json.sha256"
+            "href": "https://$((. FEED_URL))$/.well-known/csaf/green/2018/green_3.json.sha256"
           },
           {
             "rel": "hash",
-            "href": "https://$((FEED_URL))$/.well-known/csaf/green/2018/green_3.json.sha512"
+            "href": "https://$((. FEED_URL))$/.well-known/csaf/green/2018/green_3.json.sha512"
           },
           {
             "rel": "signature",
-            "href": "https://$((FEED_URL))$/.well-known/csaf/green/2018/green_3.json.asc"
+            "href": "https://$((. FEED_URL))$/.well-known/csaf/green/2018/green_3.json.asc"
           }
         ],
         "published": "2018-01-01T11:00:00Z",
         "updated": "2022-11-11T11:00:00Z",
         "content": {
           "type": "application/json",
-          "src": "https://$((FEED_URL))$/.well-known/csaf/green/2018/green_3.json"
+          "src": "https://$((. FEED_URL))$/.well-known/csaf/green/2018/green_3.json"
         },
         "format": {
           "schema": "https://docs.oasis-open.org/csaf/csaf/v2.0/csaf_json_schema.json",

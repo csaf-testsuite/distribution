@@ -5,7 +5,7 @@
     "distribution": {
       "tlp": {
         "label": "RED",
-        "url": "https://$((DISTRIBUTION_URL))$/tlp/"
+        "url": "https://$((. DISTRIBUTION_URL))$/tlp/"
       }
     },
     "lang": "en",
@@ -14,7 +14,7 @@
       "contact_details": "No need to contact us.\n",
       "issuing_authority": "Issuing authority",
       "name": "Name",
-      "namespace": "https://$((PUBLISHER_NAMESPACE_URL))$"
+      "namespace": "https://$((. PUBLISHER_NAMESPACE_URL))$"
     },
     "references": [
       {
