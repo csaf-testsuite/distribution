@@ -20,7 +20,7 @@
       {
         "category": "self",
         "summary": "A canonical url",
-        "url": "{{.CanonicalURL}}"
+        "url": "$((.CanonicalURL))$"
       }
     ],
     "title": "Advisory_white",
