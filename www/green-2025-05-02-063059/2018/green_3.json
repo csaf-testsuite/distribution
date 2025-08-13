@@ -29,7 +29,7 @@
       "category": "vendor",
       "issuing_authority": "Issuing authority",
       "name": "Name",
-      "namespace": "https://$((. PUBLISHER_NAMESPACE_URL))$",
+      "namespace": "https://$((.PUBLISHER_NAMESPACE_URL))$",
       "contact_details": "No need to contact us.\n"
     },
     "distribution": {
