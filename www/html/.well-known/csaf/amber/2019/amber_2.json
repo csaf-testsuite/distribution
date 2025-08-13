@@ -14,13 +14,13 @@
       "contact_details": "No need to contact us.\n",
       "issuing_authority": "Issuing authority",
       "name": "Name",
-      "namespace": "https://www.example.com"
+      "namespace": "https://$((.PUBLISHER_NAMESPACE_URL))$"
     },
     "references": [
       {
         "category": "self",
         "summary": "A canonical url",
-        "url": "{{.CanonicalURL}}"
+        "url": "$((.CanonicalURL))$"
       }
     ],
     "title": "Advisory_amber",

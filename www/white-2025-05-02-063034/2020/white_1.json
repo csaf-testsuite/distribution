@@ -29,13 +29,13 @@
       "category": "vendor",
       "issuing_authority": "Issuing authority",
       "name": "Name",
-      "namespace": "https://www.example.com",
+      "namespace": "https://$((.PUBLISHER_NAMESPACE_URL))$",
       "contact_details": "No need to contact us.\n"
     },
     "distribution": {
       "tlp": {
         "label": "WHITE",
-        "url": "https://www.first.org/tlp/"
+        "url": "https://$((.DISTRIBUTION_URL))$/tlp/"
       }
     }
   },
