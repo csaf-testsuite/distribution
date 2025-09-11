@@ -1,0 +1,59 @@
+{
+  "canonical_url": "https://$((.CANONICAL_URL))$/.well-known/csaf/provider-metadata.json",
+  "distributions": [
+    {
+      "rolie": {
+        "feeds": [
+          {
+            "summary": "TLP:WHITE advisories",
+            "tlp_label": "WHITE",
+            "url": "https://$((.ROLIE_FEED_URL))$/.well-known/csaf/white/csaf-feed-tlp-white.json"
+          },
+          {
+            "summary": "TLP:GREEN advisories",
+            "tlp_label": "GREEN",
+            "url": "https://$((.ROLIE_FEED_URL))$/.well-known/csaf/green/csaf-feed-tlp-green.json"
+          },
+          {
+            "summary": "TLP:AMBER advisories",
+            "tlp_label": "AMBER",
+            "url": "https://$((.ROLIE_FEED_URL))$/.well-known/csaf/amber/csaf-feed-tlp-amber.json"
+          },
+          {
+            "summary": "TLP:RED advisories",
+            "tlp_label": "RED",
+            "url": "https://$((.ROLIE_FEED_URL))$/.well-known/csaf/red/csaf-feed-tlp-red.json"
+          }
+        ]
+      }
+    },
+    {
+      "directory_url": "https://$((.DIRECTORY_URL))$/.well-known/csaf/white"
+    },
+    {
+      "directory_url": "https://$((.DIRECTORY_URL))$/.well-known/csaf/green"
+    },
+    {
+      "directory_url": "https://$((.DIRECTORY_URL))$/.well-known/csaf/amber"
+    },
+    {
+      "directory_url": "https://$((.DIRECTORY_URL))$/.well-known/csaf/red"
+    }
+  ],
+  "last_updated": "2025-05-02T06:26:59Z",
+  "list_on_CSAF_aggregators": true,
+  "metadata_version": "2.0",
+  "mirror_on_CSAF_aggregators": true,
+  "public_openpgp_keys": [
+    {
+      "fingerprint": "79B5E4B1EFAD63E7332592479F892DA137BFB437",
+      "url": "https://$((.PUBLIC_OPENPGP_KEY_URL))$/.well-known/csaf/openpgp/publickey.asc"
+    }
+  ],
+  "publisher": {
+    "category": "vendor",
+    "name": "name",
+    "namespace": "https://example.com"
+  },
+  "role": "csaf_trusted_provider"
+}
