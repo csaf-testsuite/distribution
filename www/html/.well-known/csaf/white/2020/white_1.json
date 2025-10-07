@@ -20,7 +20,7 @@
       {
         "category": "self",
         "summary": "A canonical url",
-        "url": "$((.CanonicalURL))$"
+        "url": "$((.CanonicalURL))$/white/2020/white_1.json"
       }
     ],
     "title": "Advisory_white",
