@@ -1,4 +1,4 @@
-{
+¿¿¿{
   "canonical_url": "https://$((.CanonicalURL))$/.well-known/csaf/provider-metadata.json",
   "distributions": [
     {
@@ -7,37 +7,37 @@
           {
             "summary": "TLP:WHITE advisories",
             "tlp_label": "WHITE",
-            "url": "https://$((.RolieFeedURL))$/.well-known/csaf/white/csaf-feed-tlp-white.json"
+            "url": "https://$((.CanonicalURL))$/.well-known/csaf/white/csaf-feed-tlp-white.json"
           },
           {
             "summary": "TLP:GREEN advisories",
             "tlp_label": "GREEN",
-            "url": "https://$((.RolieFeedURL))$/.well-known/csaf/green/csaf-feed-tlp-green.json"
+            "url": "https://$((.CanonicalURL))$/.well-known/csaf/green/csaf-feed-tlp-green.json"
           },
           {
             "summary": "TLP:AMBER advisories",
             "tlp_label": "AMBER",
-            "url": "https://$((.RolieFeedURL))$/.well-known/csaf/amber/csaf-feed-tlp-amber.json"
+            "url": "https://$((.CanonicalURL))$/.well-known/csaf/amber/csaf-feed-tlp-amber.json"
           },
           {
             "summary": "TLP:RED advisories",
             "tlp_label": "RED",
-            "url": "https://$((.RolieFeedURL))$/.well-known/csaf/red/csaf-feed-tlp-red.json"
+            "url": "https://$((.CanonicalURL))$/.well-known/csaf/red/csaf-feed-tlp-red.json"
           }
         ]
       }
     },
     {
-      "directory_url": "https://$((.DirectoryURL))$/.well-known/csaf/white"
+      "directory_url": "https://$((.CanonicalURL))$/.well-known/csaf/white"
     },
     {
-      "directory_url": "https://$((.DirectoryURL))$/.well-known/csaf/green"
+      "directory_url": "https://$((.CanonicalURL))$/.well-known/csaf/green"
     },
     {
-      "directory_url": "https://$((.DirectoryURL))$/.well-known/csaf/amber"
+      "directory_url": "https://$((.CanonicalURL))$/.well-known/csaf/amber"
     },
     {
-      "directory_url": "https://$((.DirectoryURL))$/.well-known/csaf/red"
+      "directory_url": "https://$((.CanonicalURL))$/.well-known/csaf/red"
     }
   ],
   "last_updated": "2025-05-02T06:26:59Z",
