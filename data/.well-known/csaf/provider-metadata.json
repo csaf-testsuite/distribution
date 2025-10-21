@@ -1,4 +1,4 @@
-¿¿¿{
+{
   "canonical_url": "https://$((.CanonicalURL))$/.well-known/csaf/provider-metadata.json",
   "distributions": [
     {
