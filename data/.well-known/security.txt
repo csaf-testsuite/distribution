@@ -1,1 +1,0 @@
-CSAF: $((.BaseURL))$/.well-known/csaf/provider-metadata.json
