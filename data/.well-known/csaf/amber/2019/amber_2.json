@@ -20,7 +20,7 @@
       {
         "category": "self",
         "summary": "A canonical url",
-        "url": "$((.CanonicalURL))$/amber/2019/amber_2.json"
+        "url": "$((.BaseURL))$/amber/2019/amber_2.json"
       }
     ],
     "title": "Advisory_amber",

@@ -20,7 +20,7 @@
       {
         "category": "self",
         "summary": "A canonical url",
-        "url": "$((.CanonicalURL))$/green/2020/green_1.json"
+        "url": "$((.BaseURL))$/green/2020/green_1.json"
       }
     ],
     "title": "Advisory_green",

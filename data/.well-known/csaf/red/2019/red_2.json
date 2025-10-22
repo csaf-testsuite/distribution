@@ -20,7 +20,7 @@
       {
         "category": "self",
         "summary": "A canonical url",
-        "url": "$((.CanonicalURL))$/red/2019/red_2.json"
+        "url": "$((.BaseURL))$/red/2019/red_2.json"
       }
     ],
     "title": "Advisory_red",
