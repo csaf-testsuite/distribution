@@ -5,7 +5,7 @@
     "distribution": {
       "tlp": {
         "label": "RED",
-        "url": "https://$((.DistributionURL))$/tlp/"
+        "url": "https://first.org/tlp/"
       }
     },
     "lang": "en",
