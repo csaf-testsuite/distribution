@@ -20,7 +20,7 @@
       {
         "category": "self",
         "summary": "A canonical url",
-        "url": "$((.BaseURL))$/white/2019/white_2.json"
+        "url": "$((.BaseURL))$/.well-known/csaf/white/2019/white_2.json"
       }
     ],
     "title": "Advisory_white",
