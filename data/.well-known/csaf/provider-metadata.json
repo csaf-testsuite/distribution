@@ -46,7 +46,7 @@
   "mirror_on_CSAF_aggregators": true,
   "public_openpgp_keys": [
     {
-      "fingerprint": "$((.PublicOpenPGPKeyFingerprint))",
+      "fingerprint": "$((.PublicOpenPGPKeyFingerprint))$",
       "url": "$((.PublicOpenPGPKeyURL))$"
     }
   ],
