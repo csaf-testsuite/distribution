@@ -68,10 +68,6 @@
             "rel": "hash",
             "href": "$((.BaseURL))$/.well-known/csaf/white/2019/white_2.json.sha512"
           },
-          {
-            "rel": "signature",
-            "href": "$((.BaseURL))$/.well-known/csaf/white/2019/white_2.json.asc"
-          }
         ],
         "published": "2019-01-01T11:00:00Z",
         "updated": "2023-11-11T11:00:00Z",
