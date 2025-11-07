@@ -126,15 +126,15 @@
           },
           {
             "rel": "hash",
-            "href": "$((.BaseURL))$/.well-known/csaf/white/2018/white_4.json.sha256"
+            "href": "$((.BaseURL))$/.well-known/csaf/white/2017/white_4.json.sha256"
           },
           {
             "rel": "hash",
-            "href": "$((.BaseURL))$/.well-known/csaf/white/2018/white_4.json.sha512"
+            "href": "$((.BaseURL))$/.well-known/csaf/white/2017/white_4.json.sha512"
           },
           {
             "rel": "signature",
-            "href": "$((.BaseURL))$/.well-known/csaf/white/2018/white_4.json.asc"
+            "href": "$((.BaseURL))$/.well-known/csaf/white/2017/white_4.json.asc"
           }
         ],
         "published": "2017-01-01T11:00:00Z",
