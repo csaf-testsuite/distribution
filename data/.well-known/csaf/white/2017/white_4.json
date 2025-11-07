@@ -20,7 +20,7 @@
       {
         "category": "self",
         "summary": "A canonical url",
-        "url": "$((.BaseURL))$/.well-known/csaf/white/2018/white_4.json"
+        "url": "$((.BaseURL))$/.well-known/csaf/white/2017/white_4.json"
       }
     ],
     "title": "Advisory_white",
@@ -34,7 +34,7 @@
         }
       },
       "id": "white_4",
-      "initial_release_date": "2018-01-01T11:00:00.000Z",
+      "initial_release_date": "2017-01-01T11:00:00.000Z",
       "revision_history": [
         {
           "date": "2017-01-01T11:00:00.000Z",
