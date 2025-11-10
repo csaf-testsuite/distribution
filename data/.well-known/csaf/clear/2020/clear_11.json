@@ -20,10 +20,10 @@
       {
         "category": "self",
         "summary": "A canonical url",
-        "url": "$((.BaseURL))$/.well-known/csaf/white/2020/white_1.json"
+        "url": "$((.BaseURL))$/.well-known/csaf/clear/2020/clear_11.json"
       }
     ],
-    "title": "Advisory_white",
+    "title": "Advisory_clear",
     "tracking": {
       "current_release_date": "2024-11-11T11:00:00.000Z",
       "generator": {
@@ -33,7 +33,7 @@
           "version": "2.5.23"
         }
       },
-      "id": "white_1",
+      "id": "clear_11",
       "initial_release_date": "2020-01-01T11:00:00.000Z",
       "revision_history": [
         {

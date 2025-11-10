@@ -6,7 +6,7 @@
         "collection": [
           {
             "title": "CSAF feed (TLP:WHITE)",
-            "href": "$((.BaseURL))$/.well-known/csaf/white/csaf-feed-tlp-white.json",
+            "href": "$((.BaseURL))$/.well-known/csaf/clear/csaf-feed-tlp-clear.json",
             "categories": {
               "category": [
                 {

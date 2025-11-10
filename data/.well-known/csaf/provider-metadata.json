@@ -7,7 +7,7 @@
           {
             "summary": "TLP:WHITE advisories",
             "tlp_label": "WHITE",
-            "url": "$((.BaseURL))$/.well-known/csaf/white/csaf-feed-tlp-white.json"
+            "url": "$((.BaseURL))$/.well-known/csaf/clear/csaf-feed-tlp-clear.json"
           },
           {
             "summary": "TLP:GREEN advisories",
@@ -28,7 +28,7 @@
       }
     },
     {
-      "directory_url": "$((.BaseURL))$/.well-known/csaf/white"
+      "directory_url": "$((.BaseURL))$/.well-known/csaf/clear"
     },
     {
       "directory_url": "$((.BaseURL))$/.well-known/csaf/green"

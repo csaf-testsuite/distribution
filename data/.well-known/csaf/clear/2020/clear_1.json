@@ -20,12 +20,12 @@
       {
         "category": "self",
         "summary": "A canonical url",
-        "url": "$((.BaseURL))$/.well-known/csaf/white/2019/white_2.json"
+        "url": "$((.BaseURL))$/.well-known/csaf/clear/2020/clear_1.json"
       }
     ],
-    "title": "Advisory_white",
+    "title": "Advisory_clear",
     "tracking": {
-      "current_release_date": "2023-11-11T11:00:00.000Z",
+      "current_release_date": "2024-11-11T11:00:00.000Z",
       "generator": {
         "date": "2025-04-11T11:46:24.510Z",
         "engine": {
@@ -33,27 +33,22 @@
           "version": "2.5.23"
         }
       },
-      "id": "white_2",
-      "initial_release_date": "2019-01-01T11:00:00.000Z",
+      "id": "clear_1",
+      "initial_release_date": "2020-01-01T11:00:00.000Z",
       "revision_history": [
         {
-          "date": "2019-01-01T11:00:00.000Z",
+          "date": "2020-01-01T11:00:00.000Z",
           "number": "1",
           "summary": "Initial Release"
         },
         {
-          "date": "2021-01-01T11:00:00.000Z",
+          "date": "2024-11-11T11:00:00.000Z",
           "number": "2",
-          "summary": "Interim Release"
-        },
-        {
-          "date": "2023-11-11T11:00:00.000Z",
-          "number": "3",
-          "summary": "Final Release"
+          "summary": "Initial Release"
         }
       ],
       "status": "final",
-      "version": "3"
+      "version": "2"
     }
   },
   "product_tree": {

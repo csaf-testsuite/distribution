@@ -1,11 +1,11 @@
 {
   "feed": {
-    "id": "csaf-feed-tlp-white",
+    "id": "csaf-feed-tlp-clear",
     "title": "CSAF feed (TLP:WHITE)",
     "link": [
       {
         "rel": "self",
-        "href": "$((.BaseURL))$/.well-known/csaf/white/csaf-feed-tlp-white.json"
+        "href": "$((.BaseURL))$/.well-known/csaf/clear/csaf-feed-tlp-clear.json"
       },
       {
         "rel": "service",
@@ -21,31 +21,31 @@
     "updated": "2025-05-02T06:30:34Z",
     "entry": [
       {
-        "id": "white_1",
-        "title": "Advisory_white",
+        "id": "clear_1",
+        "title": "Advisory_clear",
         "link": [
           {
             "rel": "self",
-            "href": "$((.BaseURL))$/.well-known/csaf/white/2020/white_1.json"
+            "href": "$((.BaseURL))$/.well-known/csaf/clear/2020/clear_1.json"
           },
           {
             "rel": "hash",
-            "href": "$((.BaseURL))$/.well-known/csaf/white/2020/white_1.json.sha256"
+            "href": "$((.BaseURL))$/.well-known/csaf/clear/2020/clear_1.json.sha256"
           },
           {
             "rel": "hash",
-            "href": "$((.BaseURL))$/.well-known/csaf/white/2020/white_1.json.sha512"
+            "href": "$((.BaseURL))$/.well-known/csaf/clear/2020/clear_1.json.sha512"
           },
           {
             "rel": "signature",
-            "href": "$((.BaseURL))$/.well-known/csaf/white/2020/white_1.json.asc"
+            "href": "$((.BaseURL))$/.well-known/csaf/clear/2020/clear_1.json.asc"
           }
         ],
         "published": "2020-01-01T11:00:00Z",
         "updated": "2024-11-11T11:00:00Z",
         "content": {
           "type": "application/json",
-          "src": "$((.BaseURL))$/.well-known/csaf/white/2020/white_1.json"
+          "src": "$((.BaseURL))$/.well-known/csaf/clear/2020/clear_1.json"
         },
         "format": {
           "schema": "https://docs.oasis-open.org/csaf/csaf/v2.0/csaf_json_schema.json",
@@ -53,31 +53,31 @@
         }
       },
       {
-        "id": "white_11",
-        "title": "Advisory_white",
+        "id": "clear_11",
+        "title": "Advisory_clear",
         "link": [
           {
             "rel": "self",
-            "href": "$((.BaseURL))$/.well-known/csaf/white/2020/white_11.json"
+            "href": "$((.BaseURL))$/.well-known/csaf/clear/2020/clear_11.json"
           },
           {
             "rel": "hash",
-            "href": "$((.BaseURL))$/.well-known/csaf/white/2020/white_11.json.sha256"
+            "href": "$((.BaseURL))$/.well-known/csaf/clear/2020/clear_11.json.sha256"
           },
           {
             "rel": "hash",
-            "href": "$((.BaseURL))$/.well-known/csaf/white/2020/white_11.json.sha512"
+            "href": "$((.BaseURL))$/.well-known/csaf/clear/2020/clear_11.json.sha512"
           },
           {
             "rel": "signature",
-            "href": "$((.BaseURL))$/.well-known/csaf/white/2020/white_11.json.asc"
+            "href": "$((.BaseURL))$/.well-known/csaf/clear/2020/clear_11.json.asc"
           }
         ],
         "published": "2020-01-01T11:00:00Z",
         "updated": "2024-11-11T11:00:00Z",
         "content": {
           "type": "application/json",
-          "src": "$((.BaseURL))$/.well-known/csaf/white/2020/white_11.json"
+          "src": "$((.BaseURL))$/.well-known/csaf/clear/2020/clear_11.json"
         },
         "format": {
           "schema": "https://docs.oasis-open.org/csaf/csaf/v2.0/csaf_json_schema.json",
@@ -85,31 +85,31 @@
         }
       },
       {
-        "id": "white_2",
-        "title": "Advisory_white",
+        "id": "clear_2",
+        "title": "Advisory_clear",
         "link": [
           {
             "rel": "self",
-            "href": "$((.BaseURL))$/.well-known/csaf/white/2019/white_2.json"
+            "href": "$((.BaseURL))$/.well-known/csaf/clear/2019/clear_2.json"
           },
           {
             "rel": "hash",
-            "href": "$((.BaseURL))$/.well-known/csaf/white/2019/white_2.json.sha256"
+            "href": "$((.BaseURL))$/.well-known/csaf/clear/2019/clear_2.json.sha256"
           },
           {
             "rel": "hash",
-            "href": "$((.BaseURL))$/.well-known/csaf/white/2019/white_2.json.sha512"
+            "href": "$((.BaseURL))$/.well-known/csaf/clear/2019/clear_2.json.sha512"
           },
           {
             "rel": "signature",
-            "href": "$((.BaseURL))$/.well-known/csaf/white/2019/white_2.json.asc"
+            "href": "$((.BaseURL))$/.well-known/csaf/clear/2019/clear_2.json.asc"
           }
         ],
         "published": "2019-01-01T11:00:00Z",
         "updated": "2023-11-11T11:00:00Z",
         "content": {
           "type": "application/json",
-          "src": "$((.BaseURL))$/.well-known/csaf/white/2019/white_2.json"
+          "src": "$((.BaseURL))$/.well-known/csaf/clear/2019/clear_2.json"
         },
         "format": {
           "schema": "https://docs.oasis-open.org/csaf/csaf/v2.0/csaf_json_schema.json",
@@ -117,31 +117,31 @@
         }
       },
       {
-        "id": "white_3",
-        "title": "Advisory_white",
+        "id": "clear_3",
+        "title": "Advisory_clear",
         "link": [
           {
             "rel": "self",
-            "href": "$((.BaseURL))$/.well-known/csaf/white/2018/white_3.json"
+            "href": "$((.BaseURL))$/.well-known/csaf/clear/2018/clear_3.json"
           },
           {
             "rel": "hash",
-            "href": "$((.BaseURL))$/.well-known/csaf/white/2018/white_3.json.sha256"
+            "href": "$((.BaseURL))$/.well-known/csaf/clear/2018/clear_3.json.sha256"
           },
           {
             "rel": "hash",
-            "href": "$((.BaseURL))$/.well-known/csaf/white/2018/white_3.json.sha512"
+            "href": "$((.BaseURL))$/.well-known/csaf/clear/2018/clear_3.json.sha512"
           },
           {
             "rel": "signature",
-            "href": "$((.BaseURL))$/.well-known/csaf/white/2018/white_3.json.asc"
+            "href": "$((.BaseURL))$/.well-known/csaf/clear/2018/clear_3.json.asc"
           }
         ],
         "published": "2018-01-01T11:00:00Z",
         "updated": "2022-11-11T11:00:00Z",
         "content": {
           "type": "application/json",
-          "src": "$((.BaseURL))$/.well-known/csaf/white/2018/white_3.json"
+          "src": "$((.BaseURL))$/.well-known/csaf/clear/2018/clear_3.json"
         },
         "format": {
           "schema": "https://docs.oasis-open.org/csaf/csaf/v2.0/csaf_json_schema.json",
@@ -149,31 +149,31 @@
         }
       },
       {
-        "id": "white_4",
-        "title": "Advisory_white",
+        "id": "clear_4",
+        "title": "Advisory_clear",
         "link": [
           {
             "rel": "self",
-            "href": "$((.BaseURL))$/.well-known/csaf/white/2017/white_4.json"
+            "href": "$((.BaseURL))$/.well-known/csaf/clear/2017/clear_4.json"
           },
           {
             "rel": "hash",
-            "href": "$((.BaseURL))$/.well-known/csaf/white/2017/white_4.json.sha256"
+            "href": "$((.BaseURL))$/.well-known/csaf/clear/2017/clear_4.json.sha256"
           },
           {
             "rel": "hash",
-            "href": "$((.BaseURL))$/.well-known/csaf/white/2017/white_4.json.sha512"
+            "href": "$((.BaseURL))$/.well-known/csaf/clear/2017/clear_4.json.sha512"
           },
           {
             "rel": "signature",
-            "href": "$((.BaseURL))$/.well-known/csaf/white/2017/white_4.json.asc"
+            "href": "$((.BaseURL))$/.well-known/csaf/clear/2017/clear_4.json.asc"
           }
         ],
         "published": "2017-01-01T11:00:00Z",
         "updated": "2021-11-11T11:00:00Z",
         "content": {
           "type": "application/json",
-          "src": "$((.BaseURL))$/.well-known/csaf/white/2017/white_4.json"
+          "src": "$((.BaseURL))$/.well-known/csaf/clear/2017/clear_4.json"
         },
         "format": {
           "schema": "https://docs.oasis-open.org/csaf/csaf/v2.0/csaf_json_schema.json",

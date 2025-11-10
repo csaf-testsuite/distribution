@@ -20,12 +20,12 @@
       {
         "category": "self",
         "summary": "A canonical url",
-        "url": "$((.BaseURL))$/.well-known/csaf/white/2017/white_4.json"
+        "url": "$((.BaseURL))$/.well-known/csaf/clear/2018/clear_3.json"
       }
     ],
-    "title": "Advisory_white",
+    "title": "Advisory_clear",
     "tracking": {
-      "current_release_date": "2021-11-11T11:00:00.000Z",
+      "current_release_date": "2022-11-11T11:00:00.000Z",
       "generator": {
         "date": "2025-04-11T11:46:24.510Z",
         "engine": {
@@ -33,21 +33,21 @@
           "version": "2.5.23"
         }
       },
-      "id": "white_4",
-      "initial_release_date": "2017-01-01T11:00:00.000Z",
+      "id": "clear_3",
+      "initial_release_date": "2018-01-01T11:00:00.000Z",
       "revision_history": [
         {
-          "date": "2017-01-01T11:00:00.000Z",
+          "date": "2018-01-01T11:00:00.000Z",
           "number": "1",
           "summary": "Initial Release"
         },
         {
-          "date": "2019-01-01T11:00:00.000Z",
+          "date": "2020-01-01T11:00:00.000Z",
           "number": "2",
           "summary": "Interim Release"
         },
         {
-          "date": "2021-11-11T11:00:00.000Z",
+          "date": "2022-11-11T11:00:00.000Z",
           "number": "3",
           "summary": "Final Release"
         }
