@@ -179,6 +179,38 @@
           "schema": "https://docs.oasis-open.org/csaf/csaf/v2.0/csaf_json_schema.json",
           "version": "2.0"
         }
+      },
+      {
+        "id": "white_611",
+        "title": "Advisory_white",
+        "link": [
+          {
+            "rel": "self",
+            "href": "$((.BaseURL))$/.well-known/csaf/white/2020/white_611.json"
+          },
+          {
+            "rel": "hash",
+            "href": "$((.BaseURL))$/.well-known/csaf/white/2020/white_611.json.sha256"
+          },
+          {
+            "rel": "hash",
+            "href": "$((.BaseURL))$/.well-known/csaf/white/2020/white_611.json.sha512"
+          },
+          {
+            "rel": "signature",
+            "href": "$((.BaseURL))$/.well-known/csaf/white/2020/white_611.json.asc"
+          }
+        ],
+        "published": "2020-01-01T11:00:00Z",
+        "updated": "2024-11-11T11:00:00Z",
+        "content": {
+          "type": "application/json",
+          "src": "$((.BaseURL))$/.well-known/csaf/white/2020/white_611.json"
+        },
+        "format": {
+          "schema": "https://docs.oasis-open.org/csaf/csaf/v2.0/csaf_json_schema.json",
+          "version": "2.0"
+        }
       }
     ]
   }

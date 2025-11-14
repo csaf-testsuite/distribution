@@ -1,5 +1,6 @@
 2020/white_1.json
 2020/white_11.json
+2020/white_611.json
 2019/white_2.json
 2018/white_3.json
 2017/white_4.json
