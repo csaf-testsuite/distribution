@@ -2541,6 +2541,10 @@
          {
             "href": "$((.BaseURL))$/.well-known/csaf/white/csaf-feed-tlp-white.json",
             "rel": "self"
+         },
+         {
+           "rel": "service",
+           "href": "$((.BaseURL))$/.well-known/csaf/service.json"
          }
       ],
       "title": "CSAF feed (TLP:WHITE)",
