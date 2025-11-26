@@ -45,7 +45,7 @@
         "updated": "2025-11-11T11:00:00Z",
         "content": {
           "type": "application/json",
-          "src": "$((.BaseURL))$/.well-known/csaf/green/2020/green_1.json"
+          "src": "$((.BaseURL))$/.well-known/csaf/green/2025/green_1.json"
         },
         "format": {
           "schema": "https://docs.oasis-open.org/csaf/csaf/v2.0/csaf_json_schema.json",
