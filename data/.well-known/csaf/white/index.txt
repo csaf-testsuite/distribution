@@ -3,7 +3,6 @@
 2025/r7_2w0.json
 2025/r7_1w0.json
 2025/r7_11w0.json
-2025/r7_12w0.json
 2025/r7_13w0.json
 2024/r6_1_9w0.json
 2024/r6_1_8w0.json
