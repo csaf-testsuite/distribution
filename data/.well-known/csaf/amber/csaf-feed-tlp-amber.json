@@ -51,38 +51,6 @@
           "schema": "https://docs.oasis-open.org/csaf/csaf/v2.0/csaf_json_schema.json",
           "version": "2.0"
         }
-      },
-      {
-        "id": "r7_4a0",
-        "title": "Advisory_r7_4a0",
-        "link": [
-          {
-            "rel": "self",
-            "href": "$((.BaseURL))$/.well-known/csaf/amber/2025/r7_4a0.json"
-          },
-          {
-            "rel": "hash",
-            "href": "$((.BaseURL))$/.well-known/csaf/amber/2025/r7_4a0.json.sha256"
-          },
-          {
-            "rel": "hash",
-            "href": "$((.BaseURL))$/.well-known/csaf/amber/2025/r7_4a0.json.sha512"
-          },
-          {
-            "rel": "signature",
-            "href": "$((.BaseURL))$/.well-known/csaf/amber/2025/r7_4a0.json.asc"
-          }
-        ],
-        "published": "2025-01-01T11:00:00Z",
-        "updated": "2025-11-11T11:00:00Z",
-        "content": {
-          "type": "application/json",
-          "src": "$((.BaseURL))$/.well-known/csaf/amber/2025/r7_4a0.json"
-        },
-        "format": {
-          "schema": "https://docs.oasis-open.org/csaf/csaf/v2.0/csaf_json_schema.json",
-          "version": "2.0"
-        }
       }
     ]
   }

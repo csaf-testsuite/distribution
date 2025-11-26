@@ -9,6 +9,26 @@
       "entry": [
          {
             "content": {
+               "src": "$((.BaseURL))$/.well-known/csaf/amber/2025/r7_4a0.json",
+               "type": "application/json"
+            },
+            "format": {
+               "schema": "https://docs.oasis-open.org/csaf/csaf/v2.0/csaf_json_schema.json",
+               "version": "2.0"
+            },
+            "id": "r7_4a0",
+            "link": [
+               {
+                  "href": "$((.BaseURL))$/.well-known/csaf/amber/2025/r7_4a0.json",
+                  "rel": "self"
+               }
+            ],
+            "published": "2025-01-01T11:00:00Z",
+            "title": "Advisory_r7_4a0",
+            "updated": "2025-11-11T11:00:00Z"
+         },
+         {
+            "content": {
                "src": "$((.BaseURL))$/.well-known/csaf/white/2025/r7_2w0.json",
                "type": "application/json"
             },
