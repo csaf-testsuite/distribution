@@ -23,7 +23,7 @@
         "url": "$((.BaseURL))$/.well-known/csaf/white/2025/r7_5w0.json"
       }
     ],
-    "title": "Advisory_white",
+    "title": "Advisory_r7_5w0",
     "tracking": {
       "current_release_date": "2025-11-11T11:00:00.000Z",
       "generator": {

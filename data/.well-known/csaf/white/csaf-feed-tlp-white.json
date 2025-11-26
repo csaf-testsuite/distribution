@@ -21,18 +21,6 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2025/r7_2w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2025/r7_2w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2025/r7_2w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2025/r7_2w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2025-01-01T11:00:00Z",
@@ -53,18 +41,6 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2025/r7_11w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2025/r7_11w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2025/r7_11w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2025/r7_11w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2025-01-01T11:00:00Z",
@@ -80,27 +56,15 @@
                "schema": "https://docs.oasis-open.org/csaf/csaf/v2.0/csaf_json_schema.json",
                "version": "2.0"
             },
-            "id": "r7_11w0",
+            "id": "r7_12w0",
             "link": [
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2025/r7_12w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2025/r7_12w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2025/r7_12w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2025/r7_12w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2025-01-01T11:00:00Z",
-            "title": "Advisory_r7_11w0",
+            "title": "Advisory_r7_12w0",
             "updated": "2025-11-11T11:00:00Z"
          },
          {
@@ -117,22 +81,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2025/r7_5w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2025/r7_5w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2025/r7_5w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2025/r7_5w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2025-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r7_5w0",
             "updated": "2025-11-11T11:00:00Z"
          },
          {
@@ -149,18 +101,6 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2025/r7_1w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2025/r7_1w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2025/r7_1w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2025/r7_1w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2025-01-01T11:00:00Z",
@@ -181,22 +121,30 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2025/white_1.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2025/white_1.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2025/white_1.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2025/white_1.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2025-01-01T11:00:00Z",
             "title": "Advisory_white1",
+            "updated": "2025-11-11T11:00:00Z"
+         },
+         {
+            "content": {
+               "src": "$((.BaseURL))$/.well-known/csaf/white/2025/r7_13w0.json",
+               "type": "application/json"
+            },
+            "format": {
+               "schema": "https://docs.oasis-open.org/csaf/csaf/v2.0/csaf_json_schema.json",
+               "version": "2.0"
+            },
+            "id": "r7_13w0",
+            "link": [
+               {
+                  "href": "$((.BaseURL))$/.well-known/csaf/white/2025/r7_13w0.json",
+                  "rel": "self"
+               }
+            ],
+            "published": "2025-01-01T11:00:00Z",
+            "title": "Advisory_r7_13w0",
             "updated": "2025-11-11T11:00:00Z"
          },
          {
@@ -213,22 +161,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_11w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_11w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_11w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_11w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2024-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_1_11w0",
             "updated": "2024-11-11T11:00:00Z"
          },
          {
@@ -245,22 +181,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_12w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_12w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_12w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_12w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2024-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_1_12w0",
             "updated": "2024-11-11T11:00:00Z"
          },
          {
@@ -277,22 +201,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_27_3w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_27_3w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_27_3w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_27_3w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2024-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_1_27_3w0",
             "updated": "2024-11-11T11:00:00Z"
          },
          {
@@ -309,22 +221,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_32w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_32w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_32w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_32w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2024-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_1_32w0",
             "updated": "2024-11-11T11:00:00Z"
          },
          {
@@ -341,22 +241,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_9w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_9w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_9w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_9w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2024-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_1_9w0",
             "updated": "2024-11-11T11:00:00Z"
          },
          {
@@ -373,22 +261,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_19w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_19w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_19w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_19w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2024-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_1_19w0",
             "updated": "2024-11-11T11:00:00Z"
          },
          {
@@ -405,22 +281,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_7w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_7w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_7w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_7w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2024-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_1_7w0",
             "updated": "2024-11-11T11:00:00Z"
          },
          {
@@ -437,22 +301,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_22w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_22w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_22w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_22w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2024-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_1_22w0",
             "updated": "2024-11-11T11:00:00Z"
          },
          {
@@ -464,27 +316,15 @@
                "schema": "https://docs.oasis-open.org/csaf/csaf/v2.0/csaf_json_schema.json",
                "version": "2.0"
             },
-            "id": "r6_1_27w0",
+            "id": "r6_1_27_1w0",
             "link": [
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_27_1w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_27_1w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_27_1w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_27_1w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2024-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_1_27_1w0",
             "updated": "2024-11-11T11:00:00Z"
          },
          {
@@ -501,22 +341,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_27_11w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_27_11w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_27_11w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_27_11w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2024-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_1_27_11w0",
             "updated": "2024-11-11T11:00:00Z"
          },
          {
@@ -533,22 +361,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_14w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_14w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_14w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_14w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2024-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_1_14w0",
             "updated": "2024-11-11T11:00:00Z"
          },
          {
@@ -565,22 +381,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_10w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_10w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_10w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_10w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2024-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_1_10w0",
             "updated": "2024-11-11T11:00:00Z"
          },
          {
@@ -597,22 +401,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_27_7w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_27_7w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_27_7w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_27_7w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2024-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_1_27_7w0",
             "updated": "2024-11-11T11:00:00Z"
          },
          {
@@ -629,22 +421,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_3w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_3w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_3w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_3w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2024-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_1_3w0",
             "updated": "2024-11-11T11:00:00Z"
          },
          {
@@ -661,22 +441,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_13w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_13w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_13w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_13w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2024-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_1_13w0",
             "updated": "2024-11-11T11:00:00Z"
          },
          {
@@ -693,22 +461,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_25w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_25w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_25w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_25w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2024-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_1_25w0",
             "updated": "2024-11-11T11:00:00Z"
          },
          {
@@ -725,22 +481,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_33w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_33w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_33w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_33w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2024-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_1_33w0",
             "updated": "2024-11-11T11:00:00Z"
          },
          {
@@ -757,22 +501,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_24w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_24w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_24w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_24w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2024-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_1_24w0",
             "updated": "2024-11-11T11:00:00Z"
          },
          {
@@ -789,22 +521,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_2w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_2w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_2w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_2w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2024-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_1_2w0",
             "updated": "2024-11-11T11:00:00Z"
          },
          {
@@ -821,22 +541,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_27_4w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_27_4w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_27_4w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_27_4w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2024-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_1_27_4w0",
             "updated": "2024-11-11T11:00:00Z"
          },
          {
@@ -853,22 +561,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_30w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_30w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_30w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_30w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2024-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_1_30w0",
             "updated": "2024-11-11T11:00:00Z"
          },
          {
@@ -885,22 +581,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_27_8w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_27_8w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_27_8w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_27_8w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2024-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_1_27_8w0",
             "updated": "2024-11-11T11:00:00Z"
          },
          {
@@ -917,22 +601,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_18w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_18w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_18w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_18w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2024-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_1_18w0",
             "updated": "2024-11-11T11:00:00Z"
          },
          {
@@ -949,22 +621,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_27_5w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_27_5w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_27_5w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_27_5w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2024-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_1_27_5w0",
             "updated": "2024-11-11T11:00:00Z"
          },
          {
@@ -981,22 +641,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_20w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_20w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_20w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_20w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2024-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_1_20w0",
             "updated": "2024-11-11T11:00:00Z"
          },
          {
@@ -1013,22 +661,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_4w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_4w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_4w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_4w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2024-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_1_4w0",
             "updated": "2024-11-11T11:00:00Z"
          },
          {
@@ -1045,22 +681,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_23w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_23w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_23w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_23w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2024-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_1_23w0",
             "updated": "2024-11-11T11:00:00Z"
          },
          {
@@ -1077,22 +701,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_27_10w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_27_10w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_27_10w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_27_10w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2024-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_1_27_10w0",
             "updated": "2024-11-11T11:00:00Z"
          },
          {
@@ -1109,18 +721,6 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_6w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_6w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_6w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_6w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2024-01-01T11:00:00Z",
@@ -1141,22 +741,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_15w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_15w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_15w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_15w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2024-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_1_15w0",
             "updated": "2024-11-11T11:00:00Z"
          },
          {
@@ -1173,22 +761,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_5w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_5w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_5w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_5w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2024-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_1_5w0",
             "updated": "2024-11-11T11:00:00Z"
          },
          {
@@ -1205,22 +781,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_28w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_28w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_28w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_28w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2024-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_1_28w0",
             "updated": "2024-11-11T11:00:00Z"
          },
          {
@@ -1237,22 +801,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_8w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_8w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_8w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_8w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2024-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_1_8w0",
             "updated": "2024-11-11T11:00:00Z"
          },
          {
@@ -1269,22 +821,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_31w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_31w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_31w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_31w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2024-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_1_31w0",
             "updated": "2024-11-11T11:00:00Z"
          },
          {
@@ -1301,22 +841,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_26w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_26w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_26w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_26w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2024-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_1_26w0",
             "updated": "2024-11-11T11:00:00Z"
          },
          {
@@ -1333,22 +861,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_27_6w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_27_6w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_27_6w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_27_6w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2024-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_1_27_6w0",
             "updated": "2024-11-11T11:00:00Z"
          },
          {
@@ -1365,22 +881,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_29w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_29w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_29w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_29w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2024-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_1_29w0",
             "updated": "2024-11-11T11:00:00Z"
          },
          {
@@ -1397,22 +901,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_1w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_1w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_1w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_1w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2024-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_1_1w0",
             "updated": "2024-11-11T11:00:00Z"
          },
          {
@@ -1429,22 +921,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_27_9w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_27_9w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_27_9w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_27_9w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2024-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_1_27_9w0",
             "updated": "2024-11-11T11:00:00Z"
          },
          {
@@ -1461,22 +941,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_27_2w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_27_2w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_27_2w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_27_2w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2024-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_1_27_2w0",
             "updated": "2024-11-11T11:00:00Z"
          },
          {
@@ -1493,22 +961,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_21w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_21w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_21w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2024/r6_1_21w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2024-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_1_21w0",
             "updated": "2024-11-11T11:00:00Z"
          },
          {
@@ -1525,22 +981,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_2w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_2w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_2w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_2w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2023-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_2_2w0",
             "updated": "2023-11-11T11:00:00Z"
          },
          {
@@ -1557,22 +1001,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_13w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_13w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_13w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_13w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2023-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_2_13w0",
             "updated": "2023-11-11T11:00:00Z"
          },
          {
@@ -1589,22 +1021,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_17w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_17w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_17w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_17w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2023-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_2_17w0",
             "updated": "2023-11-11T11:00:00Z"
          },
          {
@@ -1621,22 +1041,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_10w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_10w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_10w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_10w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2023-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_2_10w0",
             "updated": "2023-11-11T11:00:00Z"
          },
          {
@@ -1653,22 +1061,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_20w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_20w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_20w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_20w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2023-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_2_20w0",
             "updated": "2023-11-11T11:00:00Z"
          },
          {
@@ -1685,22 +1081,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_11w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_11w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_11w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_11w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2023-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_2_11w0",
             "updated": "2023-11-11T11:00:00Z"
          },
          {
@@ -1717,22 +1101,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_1w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_1w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_1w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_1w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2023-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_2_1w0",
             "updated": "2023-11-11T11:00:00Z"
          },
          {
@@ -1749,22 +1121,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_3w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_3w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_3w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_3w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2023-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_2_3w0",
             "updated": "2023-11-11T11:00:00Z"
          },
          {
@@ -1781,22 +1141,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_12w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_12w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_12w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_12w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2023-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_2_12w0",
             "updated": "2023-11-11T11:00:00Z"
          },
          {
@@ -1813,22 +1161,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_7w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_7w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_7w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_7w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2023-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_2_7w0",
             "updated": "2023-11-11T11:00:00Z"
          },
          {
@@ -1845,22 +1181,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_15w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_15w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_15w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_15w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2023-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_2_15w0",
             "updated": "2023-11-11T11:00:00Z"
          },
          {
@@ -1877,22 +1201,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_9w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_9w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_9w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_9w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2023-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_2_9w0",
             "updated": "2023-11-11T11:00:00Z"
          },
          {
@@ -1909,22 +1221,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_16w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_16w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_16w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_16w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2023-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_2_16w0",
             "updated": "2023-11-11T11:00:00Z"
          },
          {
@@ -1941,22 +1241,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_6w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_6w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_6w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_6w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2023-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_2_6w0",
             "updated": "2023-11-11T11:00:00Z"
          },
          {
@@ -1973,22 +1261,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_19w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_19w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_19w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_19w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2023-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_2_19w0",
             "updated": "2023-11-11T11:00:00Z"
          },
          {
@@ -2005,22 +1281,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_4w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_4w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_4w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_4w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2023-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_2_4w0",
             "updated": "2023-11-11T11:00:00Z"
          },
          {
@@ -2037,22 +1301,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_18w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_18w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_18w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_18w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2023-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_2_18w0",
             "updated": "2023-11-11T11:00:00Z"
          },
          {
@@ -2069,22 +1321,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_8w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_8w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_8w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_8w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2023-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_2_8w0",
             "updated": "2023-11-11T11:00:00Z"
          },
          {
@@ -2101,22 +1341,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_5w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_5w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_5w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_5w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2023-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_2_5w0",
             "updated": "2023-11-11T11:00:00Z"
          },
          {
@@ -2133,22 +1361,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_14w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_14w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_14w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_14w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2023-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_2_14w0",
             "updated": "2023-11-11T11:00:00Z"
          },
          {
@@ -2165,22 +1381,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2022/r6_3_5w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2022/r6_3_5w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2022/r6_3_5w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2022/r6_3_5w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2022-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_3_5w0",
             "updated": "2022-11-11T11:00:00Z"
          },
          {
@@ -2197,22 +1401,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2022/r6_3_4w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2022/r6_3_4w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2022/r6_3_4w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2022/r6_3_4w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2022-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_3_4w0",
             "updated": "2022-11-11T11:00:00Z"
          },
          {
@@ -2229,22 +1421,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2022/r6_3_6w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2022/r6_3_6w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2022/r6_3_6w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2022/r6_3_6w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2022-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_3_6w0",
             "updated": "2022-11-11T11:00:00Z"
          },
          {
@@ -2261,22 +1441,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2022/r6_3_1w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2022/r6_3_1w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2022/r6_3_1w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2022/r6_3_1w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2022-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_3_1w0",
             "updated": "2022-11-11T11:00:00Z"
          },
          {
@@ -2293,22 +1461,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2022/r6_3_7w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2022/r6_3_7w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2022/r6_3_7w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2022/r6_3_7w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2022-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_3_7w0",
             "updated": "2022-11-11T11:00:00Z"
          },
          {
@@ -2325,22 +1481,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2022/r6_3_9w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2022/r6_3_9w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2022/r6_3_9w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2022/r6_3_9w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2022-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_3_9w0",
             "updated": "2022-11-11T11:00:00Z"
          },
          {
@@ -2357,22 +1501,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2022/r6_3_8w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2022/r6_3_8w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2022/r6_3_8w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2022/r6_3_8w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2022-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_3_8w0",
             "updated": "2022-11-11T11:00:00Z"
          },
          {
@@ -2389,22 +1521,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2022/r6_3_10w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2022/r6_3_10w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2022/r6_3_10w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2022/r6_3_10w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2022-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_3_10w0",
             "updated": "2022-11-11T11:00:00Z"
          },
          {
@@ -2421,22 +1541,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2022/r6_3_3w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2022/r6_3_3w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2022/r6_3_3w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2022/r6_3_3w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2022-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_3_3w0",
             "updated": "2022-11-11T11:00:00Z"
          },
          {
@@ -2453,22 +1561,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2022/r6_3_11w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2022/r6_3_11w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2022/r6_3_11w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2022/r6_3_11w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2022-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_3_11w0",
             "updated": "2022-11-11T11:00:00Z"
          },
          {
@@ -2485,22 +1581,10 @@
                {
                   "href": "$((.BaseURL))$/.well-known/csaf/white/2022/r6_3_2w0.json",
                   "rel": "self"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2022/r6_3_2w0.json.sha256",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2022/r6_3_2w0.json.sha512",
-                  "rel": "hash"
-               },
-               {
-                  "href": "$((.BaseURL))$/.well-known/csaf/white/2022/r6_3_2w0.json.asc",
-                  "rel": "signature"
                }
             ],
             "published": "2022-01-01T11:00:00Z",
-            "title": "Advisory_white",
+            "title": "Advisory_r6_3_2w0",
             "updated": "2022-11-11T11:00:00Z"
          }
       ],
@@ -2509,13 +1593,9 @@
          {
             "href": "$((.BaseURL))$/.well-known/csaf/white/csaf-feed-tlp-white.json",
             "rel": "self"
-         },
-         {
-           "rel": "service",
-           "href": "$((.BaseURL))$/.well-known/csaf/service.json"
          }
       ],
       "title": "CSAF feed (TLP:WHITE)",
-      "updated": "2025-11-20T14:48:25Z"
+      "updated": "2025-11-26T13:29:42Z"
    }
 }

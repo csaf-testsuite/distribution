@@ -23,7 +23,7 @@
         "url": "$((.BaseURL))$/.well-known/csaf/white/2023/r6_2_16w0.json"
       }
     ],
-    "title": "Advisory_white",
+    "title": "Advisory_r6_2_16w0",
     "tracking": {
       "current_release_date": "2023-11-11T11:00:00.000Z",
       "generator": {
