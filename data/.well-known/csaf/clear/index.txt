@@ -1,1 +1,1 @@
-2020/csaf2.1.json
+2026/csaf2.1.json
