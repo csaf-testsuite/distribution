@@ -19,6 +19,18 @@
           },
           {
             "last_updated": "2025-05-02T06:26:59Z",
+            "summary": "TLP:AMBER advisories",
+            "tlp_label": "AMBER",
+            "url": "$((.BaseURL))$/.well-known/csaf/amber/csaf-feed-tlp-amber.json"
+          },
+          {
+            "last_updated": "2025-05-02T06:26:59Z",
+            "summary": "TLP:AMBER+STRICT advisories",
+            "tlp_label": "AMBER+STRICT",
+            "url": "$((.BaseURL))$/.well-known/csaf/amber+strict/csaf-feed-tlp-amber+strict.json"
+          },
+          {
+            "last_updated": "2025-05-02T06:26:59Z",
             "summary": "TLP:RED advisories",
             "tlp_label": "RED",
             "url": "$((.BaseURL))$/.well-known/csaf/red/csaf-feed-tlp-red.json"
@@ -36,6 +48,18 @@
       "directory": {
         "tlp_label": "GREEN",
         "url": "$((.BaseURL))$/.well-known/csaf/green"
+      }
+    },
+    {
+      "directory": {
+        "tlp_label": "AMBER",
+        "url": "$((.BaseURL))$/.well-known/csaf/amber"
+      }
+    },
+    {
+      "directory": {
+        "tlp_label": "AMBER+STRICT",
+        "url": "$((.BaseURL))$/.well-known/csaf/amber+strict"
       }
     },
     {

@@ -1,0 +1,57 @@
+{
+  "feed": {
+    "id": "csaf-feed-tlp-amber",
+    "title": "CSAF feed (TLP:AMBER)",
+    "link": [
+      {
+        "rel": "self",
+        "href": "$((.BaseURL))$/.well-known/csaf/amber/csaf-feed-tlp-amber.json"
+      },
+      {
+        "rel": "service",
+        "href": "$((.BaseURL))$/.well-known/csaf/service.json"
+      }
+    ],
+    "category": [
+      {
+        "scheme": "urn:ietf:params:rolie:category:information-type",
+        "term": "csaf"
+      }
+    ],
+    "updated": "2026-09-09T06:36:36Z",
+    "entry": [
+      {
+        "id": "csaf2_1amber",
+        "title": "CSAF 2.1 AMBER Document for testing",
+        "link": [
+          {
+            "rel": "self",
+            "href": "$((.BaseURL))$/.well-known/csaf/amber/2026/csaf2_1amber.json"
+          },
+          {
+            "rel": "hash",
+            "href": "$((.BaseURL))$/.well-known/csaf/amber/2026/csaf2_1amber.json.sha256"
+          },
+          {
+            "rel": "hash",
+            "href": "$((.BaseURL))$/.well-known/csaf/amber/2026/csaf2_1amber.json.sha512"
+          },
+          {
+            "rel": "signature",
+            "href": "$((.BaseURL))$/.well-known/csaf/amber/2026/csaf2_1amber.json.asc"
+          }
+        ],
+        "published": "2026-01-01T11:00:00Z",
+        "updated": "2026-09-09T11:00:00Z",
+        "content": {
+          "type": "application/json",
+          "src": "$((.BaseURL))$/.well-known/csaf/amber/2026/csaf2_1amber.json"
+        },
+        "format": {
+          "schema": "https://docs.oasis-open.org/csaf/csaf/v2.1/schema/csaf.json",
+          "version": "2.1"
+        }
+      }
+    ]
+  }
+}
