@@ -12,7 +12,6 @@
     "license_expression": "Apache-2.0",
     "publisher": {
       "category": "vendor",
-      "contact_details": "example.com",
       "issuing_authority": "example.com",
       "name": "http://example.org/",
       "namespace": "http://example.org/"
