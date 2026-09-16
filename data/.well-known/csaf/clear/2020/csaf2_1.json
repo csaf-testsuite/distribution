@@ -1,0 +1,98 @@
+{
+  "$schema": "https://docs.oasis-open.org/csaf/csaf/v2.1/schema/csaf.json",
+  "document": {
+    "category": "csaf_security_advisory",
+    "csaf_version": "2.1",
+    "distribution": {
+      "tlp": {
+        "label": "CLEAR"
+      }
+    },
+    "lang": "en",
+    "license_expression": "Apache-2.0",
+    "publisher": {
+      "category": "vendor",
+      "contact_details": "example.com",
+      "issuing_authority": "example.com",
+      "name": "http://example.org/",
+      "namespace": "http://example.org/"
+    },
+    "title": "CSAF 2.1 Document for testing",
+    "tracking": {
+      "current_release_date": "2026-09-16T14:30:00.000Z",
+      "generator": {
+        "date": "2026-09-16T11:58:46.493Z",
+        "engine": {
+          "name": "Secvisogram",
+          "version": "2.6.12"
+        }
+      },
+      "id": "csaf2.1",
+      "initial_release_date": "2026-09-16T14:30:00.000Z",
+      "revision_history": [
+        {
+          "date": "2026-09-16T14:30:00.000Z",
+          "number": "1",
+          "summary": "Initial Setup"
+        }
+      ],
+      "status": "final",
+      "version": "1"
+    }
+  },
+  "product_tree": {
+    "full_product_names": [
+      {
+        "name": "Example Product",
+        "product_id": "CSAFPID-0001",
+        "product_identification_helper": {
+          "cpe": "cpe:2.3:a:example:example_product:1.0.0:*:*:*:*:*:*:*"
+        }
+      }
+    ]
+  },
+  "vulnerabilities": [
+    {
+      "cve": "CVE-2026-99999",
+      "disclosure_date": "2026-09-16T11:45:00.000Z",
+      "discovery_date": "2026-09-16T11:42:00.000Z",
+      "metrics": [
+        {
+          "content": {
+            "cvss_v4": {
+              "baseScore": 9.3,
+              "baseSeverity": "CRITICAL",
+              "vectorString": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N",
+              "version": "4.0"
+            }
+          },
+          "products": [
+            "CSAFPID-0001"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "category": "summary",
+          "text": "Example Product is affected by CVE-2026-99999.",
+          "title": "Vulnerability Summary"
+        }
+      ],
+      "product_status": {
+        "known_affected": [
+          "CSAFPID-0001"
+        ]
+      },
+      "remediations": [
+        {
+          "category": "vendor_fix",
+          "details": "Update Example Product to a version containing a fix for CVE-2026-99999.",
+          "product_ids": [
+            "CSAFPID-0001"
+          ]
+        }
+      ],
+      "title": "CVE99999"
+    }
+  ]
+}

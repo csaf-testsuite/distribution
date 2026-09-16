@@ -1,5 +1,1 @@
-2020/clear_1.json
-2020/clear_11.json
-2019/clear_2.json
-2018/clear_3.json
-2017/clear_4.json
+2020/csaf2.1.json
