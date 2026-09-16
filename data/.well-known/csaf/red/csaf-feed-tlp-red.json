@@ -26,19 +26,19 @@
         "link": [
           {
             "rel": "self",
-            "href": "$((.BaseURL))$/.well-known/csaf/red/2026/csaf2_1red"
+            "href": "$((.BaseURL))$/.well-known/csaf/red/2026/csaf2_1red.json"
           },
           {
             "rel": "hash",
-            "href": "$((.BaseURL))$/.well-known/csaf/red/2026/csaf2_1red.sha256"
+            "href": "$((.BaseURL))$/.well-known/csaf/red/2026/csaf2_1red.json.sha256"
           },
           {
             "rel": "hash",
-            "href": "$((.BaseURL))$/.well-known/csaf/red/2026/csaf2_1red.sha512"
+            "href": "$((.BaseURL))$/.well-known/csaf/red/2026/csaf2_1red.json.sha512"
           },
           {
             "rel": "signature",
-            "href": "$((.BaseURL))$/.well-known/csaf/red/2026/csaf2_1red.asc"
+            "href": "$((.BaseURL))$/.well-known/csaf/red/2026/csaf2_1red.json.asc"
           }
         ],
         "published": "2026-01-01T11:00:00Z",
