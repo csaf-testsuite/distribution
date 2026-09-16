@@ -1,1 +1,1 @@
-2020/csaf2.1green.json
+2026/csaf2.1green.json
